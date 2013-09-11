@@ -25,6 +25,15 @@ $font-family: serif; // Non-font-face font-stack
 $custom-font-family: false; // Custom font-face stack, if set will be added to the $font-family
 
 
+// $Hyphenation Variable
+// -------------------------------------//
+// -------------------------------------//
+$hyphens-none: false !default;
+$hyphens-manual: false !default;
+$hyphens-auto: true !default;
+$hyphens-inherit: false !default;
+
+
 // $Small Print
 // -------------------------------------//
 
